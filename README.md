@@ -1,7 +1,11 @@
 ### Hi there 👋
+---
 
+## Обо мне
 <!--
 **ZudinaKsen/ZudinaKsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Это кот](https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D1%81%D0%BD%D0%BE%D0%B9_%D0%BA%D0%BE%D1%82)
+
 
 Here are some ideas to get you started:
 
