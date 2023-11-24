@@ -1,7 +1,7 @@
 ### Привет! 👋
 ---
 
-## Обо мне
+### Обо мне
 Основные навыки:
 - Python (pandas, numpy, scipy, matplotlib, seaborn)
 - Excel, VBA
