@@ -7,5 +7,6 @@
 - Excel, VBA
 - SQL (фильтрация, джойны, группировка, оконные функции)
 - PowerPoint
-[Мое резюме](https://github.com/ZudinaKsen/Portfolio/tree/main) 
+<p> [Мое резюме]()
+<p/> [Мое портфолио](https://github.com/ZudinaKsen/Portfolio/tree/main)
 
