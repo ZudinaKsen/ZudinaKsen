@@ -1,4 +1,4 @@
-### Hi there 👋
+### Привет! 👋
 ---
 
 ## Обо мне
@@ -6,7 +6,7 @@
 - Python (pandas, numpy, scipy, matplotlib, seaborn)
 - Excel, VBA
 - SQL (фильтрация, джойны, группировка, оконные функции)
-- PowerPoint
-<p> [Мое резюме]()
-<p/> [Мое портфолио](https://github.com/ZudinaKsen/Portfolio/tree/main)
+---
+- [Мое резюме](https://github.com/ZudinaKsen/Portfolio/tree/main)
+- [Мое портфолио](https://github.com/ZudinaKsen/Portfolio/tree/main)
 
