@@ -7,6 +7,6 @@
 - Excel, VBA
 - SQL (фильтрация, джойны, группировка, оконные функции)
 ---
-- [Мое резюме](https://github.com/ZudinaKsen/Portfolio/tree/main)
+- [Мое резюме](https://drive.google.com/uc?export=download&id=1Y9UmL4dKlnYtRyVvuXCCzi6RHNDkvUPP)
 - [Мое портфолио](https://github.com/ZudinaKsen/Portfolio/tree/main)
 
